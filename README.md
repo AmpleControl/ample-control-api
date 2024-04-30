@@ -2,13 +2,14 @@
 ```markdown
 # Ample Control Node.js API
 
-This Node.js API facilitates integration with the Ample Control SaaS (Software as a Service) platform. Ample Control are a cutting-edge manufacturing software company dedicated to optimizing production efficiencies for Manufacturing companies.
+This Node.js API facilitates integration with the Ample Control SaaS (Software as a Service) platform.
+Ample Control are a cutting-edge manufacturing software company dedicated to optimizing production efficiencies for Manufacturing companies.
 
 ## Prerequisites
 
 Before using this API, ensure you have:
 
-- Node.js installed on your machine (minimum version: x.x.x)
+- Node.js installed on your machine
 - An active account with Ample Control and your API credentials handy
 
 ## Installation
